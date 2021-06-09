@@ -6,4 +6,4 @@
 4. Run Pure Data
 5. Ensure the DSP box is checked in the debug log
 6. Go to Settings / Preferences and Change MIDI output to LoopMIDIport
-7. Open PD File 
+7. Open Fiddle_FFTwFilter File 
